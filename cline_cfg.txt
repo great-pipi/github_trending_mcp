@@ -1,0 +1,20 @@
+cline 配置
+{
+  "mcpServers": {
+    "demo": {
+      "disabled": false,
+      "timeout": 180,
+      "type": "stdio",
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/Users/xinao/Desktop/code/trop/example/temp/github_trending-feishu-mcp",
+        "run",
+        "main.py"
+      ],
+      "autoApprove": [
+        "polish_trending_repos"
+      ]
+    }
+  }
+}

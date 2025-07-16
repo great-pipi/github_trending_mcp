@@ -1,0 +1,92 @@
+{
+  "onlook-dev/onlook": {
+    "url": "https://github.com/onlook-dev/onlook",
+    "stars": "17,856",
+    "today_stars": "",
+    "description": "Onlook 是一个为设计师打造的开源可视化代码编辑器，支持使用 AI 快速创建 Next.js 应用和 TailwindCSS 项目。用户可以通过浏览器 DOM 直接进行可视化编辑，并实时预览设计效果。它提供了类似 Figma 的界面，可管理品牌资产、创建页面，同时具备实时代码编辑和命令行工具等功能。目前仍在开发中，未来将支持从 Figma 导入、团队协作和快速部署功能。"
+  },
+  "nautechsystems/nautilus_trader": {
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "stars": "8,439",
+    "today_stars": "",
+    "description": "NautilusTrader 是一个开源、高性能的算法交易平台，支持量化交易者使用事件驱动引擎在历史数据上回测自动化交易策略，并无缝部署到实时环境中。该平台以 AI 为核心，提供高度优化且稳定的 Python 原生环境，帮助解决策略在回测与实盘之间的性能一致性问题。"
+  },
+  "frdel/agent-zero": {
+    "url": "https://github.com/frdel/agent-zero",
+    "stars": "9,469",
+    "today_stars": "",
+    "description": "Agent Zero是一个个性化的、有机增长的智能体框架，旨在伴随用户成长和学习。它能作为通用型个人助手完成各类任务，具备持久记忆功能以提升未来任务解决效率，并能通过编写代码和使用终端将计算机作为工具。此外，支持多智能体协作，可动态创建子智能体分解复杂任务，同时允许用户定制扩展工具，适应不同需求。"
+  },
+  "anthropics/prompt-eng-interactive-tutorial": {
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "stars": "11,644",
+    "today_stars": "",
+    "description": "这是一个关于Anthropic公司Claude模型的提示工程交互式教程仓库。通过9章课程和配套练习，学习者可以掌握构建优质提示的基本结构、识别常见问题并解决它们的方法，同时了解Claude的优势与局限性。课程提供示例 playground 区域供实践，并涵盖从基础到高级的提示设计技巧，包括复杂提示构建和行业应用场景（如法律、金融、编码等）。特点在于逐步学习、实际操作以及针对不同难度水平的内容设计。"
+  },
+  "tensorzero/tensorzero": {
+    "url": "https://github.com/tensorzero/tensorzero",
+    "stars": "6,072",
+    "today_stars": "",
+    "description": "TensorZero是一个开源框架，用于构建生产级的大语言模型（LLM）应用。它通过统一的LLM网关、可观测性、优化、评估和实验功能，创建了LLM的数据与学习反馈循环，帮助用户根据生产数据优化提示词、模型和推理策略，实现更智能、更快、更低成本的LLM应用。其特点包括低延迟、高吞吐量、自托管支持以及工业规模应用的定制能力。"
+  },
+  "gitroomhq/postiz-app": {
+    "url": "https://github.com/gitroomhq/postiz-app",
+    "stars": "21,467",
+    "today_stars": "",
+    "description": "Postiz是一个全能的AI社交媒体排程工具，旨在替代Buffer.com、Hypefury等平台。它支持多种社交媒体（如Instagram、YouTube、LinkedIn等），帮助用户管理帖子、分析数据、构建受众群体并促进业务增长。主要特点包括AI辅助排程、团队协作、数据分析和跨平台支持，同时提供自托管与托管版本。"
+  },
+  "netbirdio/netbird": {
+    "url": "https://github.com/netbirdio/netbird",
+    "stars": "15,326",
+    "today_stars": "",
+    "description": "NetBird是一个开源网络平台，结合了无配置的点对点私有网络与集中化的访问控制系统。它使用WireGuard创建加密隧道，自动连接设备，无需复杂的防火墙规则或VPN网关。用户可通过直观的管理界面设置精细的访问策略，支持SSO/MFA、活动日志记录和设备状态检查等功能。适用于Linux、Mac、Windows和Android等多平台，实现安全远程访问和网络自动化管理。"
+  },
+  "datawhalechina/self-llm": {
+    "url": "https://github.com/datawhalechina/self-llm",
+    "stars": "16,673",
+    "today_stars": "",
+    "description": "这是一个面向国内初学者的开源大模型教程项目，专注于Linux平台上的环境配置、本地部署、高效微调等全流程指导。支持多种主流开源大模型（如LLaMA、ChatGLM等），提供命令行调用、在线Demo部署及LangChain框架集成等内容。通过详细教程和实例（如Chat-嬛嬛、Tianji-天机等），帮助用户快速掌握开源大模型的使用与应用方法，降低学习门槛。"
+  },
+  "anthropics/courses": {
+    "url": "https://github.com/anthropics/courses",
+    "stars": "14,973",
+    "today_stars": "",
+    "description": "该仓库提供由Anthropic开发的五门教育课程，旨在帮助用户掌握Claude API及大模型的应用技巧。通过学习，用户可以了解API基础操作、提示工程技术、真实场景下的提示设计、提示评估方法以及工具集成的实现方式。其特点是以实践为导向，并优先使用低成本模型（如Claude 3 Haiku）以降低学习成本。"
+  },
+  "donnemartin/system-design-primer": {
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "stars": "305,277",
+    "today_stars": "",
+    "description": "这个仓库是一个系统设计学习指南，旨在帮助用户掌握大规模系统设计的技能，并为系统设计面试做准备。它收集了广泛的系统设计资源，提供了常见系统设计问题的练习与参考答案（包括讨论、代码和图表），并包含Anki记忆卡片以辅助记忆关键概念。其特点在于内容开源、持续更新，适合希望提升系统设计能力的工程师。"
+  },
+  "scrapy/scrapy": {
+    "url": "https://github.com/scrapy/scrapy",
+    "stars": "56,869",
+    "today_stars": "",
+    "description": "Scrapy是一个跨平台的Python web爬虫框架，用于从网站中提取结构化数据。它支持Python 3.9及以上版本，由Zyte公司及众多社区贡献者共同维护。通过Scrapy，用户可以高效地抓取网页内容并进行数据分析，具备高可扩展性和灵活性，适合各种爬虫任务需求。"
+  },
+  "block/goose": {
+    "url": "https://github.com/block/goose",
+    "stars": "14,283",
+    "today_stars": "",
+    "description": "这是一个本地化、可扩展的开源AI代理项目，旨在自动化复杂的工程任务。goose不仅能从头构建整个项目、编写和执行代码、调试错误，还能协调工作流并自主与外部API交互。它支持多种LLM模型配置，可根据需求优化性能和成本，并提供桌面应用和CLI两种形式，为开发者加速创新提供灵活解决方案。"
+  },
+  "Anduin2017/HowToCook": {
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "stars": "88,620",
+    "today_stars": "",
+    "description": "这是一个专为程序员设计的开源菜谱项目，旨在用清晰、精准的语言整理常见菜肴的做法，降低做饭门槛。它包含按难度分类的丰富菜谱、素菜与荤菜教程，以及厨房技巧指南（如焯水、腌制等）。通过社区协作维护，帮助用户轻松上手烹饪。"
+  },
+  "eyaltoledano/claude-task-master": {
+    "url": "https://github.com/eyaltoledano/claude-task-master",
+    "stars": "13,562",
+    "today_stars": "",
+    "description": "Task Master 是一个面向 AI 驱动开发的任务管理系统，主要与 Cursor AI 和 Claude 集成。它通过命令和任务结构简化了开发流程，支持多种 AI 模型（如 Claude 和 OpenAI），并允许用户定义主模型、研究模型和备用模型。其特点包括无缝集成、灵活配置以及强大的任务管理功能，适用于提高开发效率。"
+  },
+  "clash-verge-rev/clash-verge-rev": {
+    "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+    "stars": "60,990",
+    "today_stars": "",
+    "description": "这是一个基于Tauri框架的Clash Meta图形化界面工具，旨在提供简洁美观的操作体验。支持自定义主题、代理组/托盘图标、CSS Injection功能，同时具备配置文件管理与增强、系统代理设置、TUN模式以及可视化节点和规则编辑等功能。内置Clash.Meta内核，并可切换至Alpha版本内核，还提供了WebDav配置备份和同步功能，适合多平台（Windows、Linux、macOS）使用。"
+  }
+}

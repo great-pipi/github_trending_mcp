@@ -1,0 +1,47 @@
+{
+  "summary": "本周Trending中，多个与AI相关的项目备受关注，涵盖大语言模型应用、生物分子预测、视觉几何建模、机器人技术、语音识别及LLM评估等领域。这些项目不仅展示了AI在不同场景的实际应用，还提供了丰富的工具和教程以降低开发门槛。",
+  "repos": [
+    {
+      "description": "[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐Total Star:43,853 ⭐Today's Star： \n该仓库汇集了基于大型语言模型（LLM）构建的优秀应用，涵盖RAG、AI代理、多代理团队等多种技术。它展示了如何将OpenAI、Anthropic、Google及开源模型（如DeepSeek、Qwen、Llama）应用于不同领域，例如数据分析、医疗影像、旅行规划等。通过丰富的示例项目，用户可以探索LLM的实际应用场景，并学习构建自己的AI驱动应用。\n<text_tag color='blue'>LLM</text_tag><text_tag color='orange'>RAG</text_tag><text_tag color='green'>开源</text_tag>"
+    },
+    {
+      "description": "[awesome](https://github.com/sindresorhus/awesome) ⭐Total Star:369,326 ⭐Today's Star： \n该仓库是一个精选的资源集合，涵盖了多种技术领域，如编程语言、前端与后端开发、计算机科学、大数据、安全等。它为开发者提供了一个全面的学习和参考平台，帮助用户快速了解并掌握不同领域的工具和最佳实践。其特点是分类清晰、内容丰富且持续更新，适合希望提升技能或寻找解决方案的技术人员。\n<text_tag color='neutral'>资源</text_tag><text_tag color='turquoise'>学习</text_tag><text_tag color='green'>开源</text_tag>"
+    },
+    {
+      "description": "[boltz](https://github.com/jwohlwend/boltz) ⭐Total Star:2,858 ⭐Today's Star： \nBoltz是一个用于生物分子相互作用预测的模型家族，其中Boltz-2是最新成果。它不仅能够联合建模复杂结构和结合亲和力，还以比物理基础的自由能微扰（FEP）方法快1000倍的速度达到相近精度，适用于早期药物发现中的高效虚拟筛选。作为开源项目，Boltz-2超越了AlphaFold3和Boltz-1的性能，支持学术与商业用途。\n<text_tag color='blue'>生物分子</text_tag><text_tag color='orange'>预测</text_tag><text_tag color='green'>开源</text_tag>"
+    },
+    {
+      "description": "[tensorzero](https://github.com/tensorzero/tensorzero) ⭐Total Star:7,483 ⭐Today's Star： \nTensorZero 是一个用于构建工业级大语言模型应用的开源栈，提供统一的 LLM 接口网关、可观测性工具、优化功能（基于生产指标和人工反馈）、评估框架以及实验支持（如 A/B 测试）。其特点包括低延迟、高吞吐量、自托管能力、多语言支持以及对复杂 LLM 应用的全面优化，适用于各类编程环境且完全免费。\n<text_tag color='blue'>LLM</text_tag><text_tag color='orange'>工业级</text_tag><text_tag color='green'>开源</text_tag>"
+    },
+    {
+      "description": "[vggt](https://github.com/facebookresearch/vggt) ⭐Total Star:8,284 ⭐Today's Star： \nVGGT（Visual Geometry Grounded Transformer）是一个前馈神经网络，能够从一张或多张图像中快速推断场景的关键3D属性，包括相机内外参数、点云图、深度图和3D点轨迹。它支持处理单张到数百张图像视图，适用于相机姿态估计、3D重建等任务，具有高效性和准确性。特点包括直接输出3D信息、支持COLMAP格式导出以及与NeRF/Gaussian splatting库兼容。\n<text_tag color='blue'>3D重建</text_tag><text_tag color='orange'>视觉几何</text_tag><text_tag color='green'>开源</text_tag>"
+    },
+    {
+      "description": "[lerobot](https://github.com/huggingface/lerobot) ⭐Total Star:14,897 ⭐Today's Star： \nLeRobot是一个专注于真实世界机器人技术的库，提供了模型、数据集和工具，基于PyTorch实现。它通过模仿学习和强化学习等前沿方法，降低机器人技术的入门门槛，使用户能够快速训练并部署自主机器人。仓库包含预训练模型、人类演示数据集及模拟环境，支持无需组装机器人即可开始实验，并逐步扩展到经济实惠的实体机器人（如SO-101和LeKiwi）。通过LeRobot，用户可以轻松创建具备自主行为能力的机器人。\n<text_tag color='blue'>机器人</text_tag><text_tag color='orange'>强化学习</text_tag><text_tag color='green'>开源</text_tag>"
+    },
+    {
+      "description": "[zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) ⭐Total Star:13,785 ⭐Today's Star： \n该仓库提供了一种‘即插即用’的解决方案，用于绕过Windows系统上对Discord和YouTube等外国平台的封锁。通过使用WinDivert工具拦截和过滤网络流量，用户可以尝试不同的策略以实现最佳效果。此外，还提供了辅助脚本进行安装、诊断和更新操作，方便用户管理和服务配置。尽管可能触发某些杀毒软件警报，但其核心功能并不包含恶意代码。\n<text_tag color='red'>网络工具</text_tag><text_tag color='orange'>流量管理</text_tag>"
+    },
+    {
+      "description": "[filament](https://github.com/filamentphp/filament) ⭐Total Star:24,281 ⭐Today's Star： \nFilament是一套用于加速Laravel开发的全栈组件集合，包含Panel Builder、Form Builder、Table Builder、Notifications和Actions等模块。它能够快速构建美观且交互性强的管理面板、CRUD界面及各种Web应用，具有高度可扩展性与直观易用的特点，帮助开发者节省重复构建常见功能的时间。\n<text_tag color='neutral'>Laravel</text_tag><text_tag color='turquoise'>开发工具</text_tag>"
+    },
+    {
+      "description": "[claude-code](https://github.com/anthropics/claude-code) ⭐Total Star:13,420 ⭐Today's Star： \nClaude Code 是一个集成在终端的智能编码工具，能够理解用户的代码库，并通过自然语言命令执行常规任务、解释复杂代码以及管理 Git 工作流。它支持在终端、IDE 或 GitHub 中使用，帮助开发者更快、更高效地编写代码。其特点包括自动化处理重复性任务、提供代码解释和优化建议，同时注重用户数据隐私与安全。\n<text_tag color='blue'>智能编码</text_tag><text_tag color='orange'>终端工具</text_tag><text_tag color='green'>开源</text_tag>"
+    },
+    {
+      "description": "[vosk-api](https://github.com/alphacep/vosk-api) ⭐Total Star:12,283 ⭐Today's Star： \nVosk 是一个离线开源语音识别工具包，支持 20 多种语言和方言的语音转文字功能。其特点是模型体积小（仅 50 MB），但具备连续大词汇量转录、零延迟流式 API、可重构词汇表和说话人识别能力。该工具适用于多种编程语言（如 Python、Java、C# 等），并能用于聊天机器人、智能家居设备、虚拟助手等场景，同时支持电影字幕生成、讲座及访谈转录等功能，从小型设备到大型集群均适用。\n<text_tag color='blue'>语音识别</text_tag><text_tag color='orange'>离线工具</text_tag><text_tag color='green'>开源</text_tag>"
+    },
+    {
+      "description": "[deepeval](https://github.com/confident-ai/deepeval) ⭐Total Star:8,295 ⭐Today's Star： \nDeepEval是一个开源的LLM评估框架，专为测试和评估大型语言模型系统设计。它支持端到端及组件级别的LLM评估，提供多种预置指标（如G-Eval、 hallucination检测等），并可使用本地运行的任意LLM或NLP模型进行评估。适用于RAG管道、聊天机器人等多种应用场景，帮助优化模型、提示词和架构，防止提示漂移。此外，还可将测试结果上传至DeepEval平台以生成和共享报告。\n<text_tag color='blue'>LLM</text_tag><text_tag color='orange'>评估</text_tag><text_tag color='green'>开源</text_tag>"
+    },
+    {
+      "description": "[zapret](https://github.com/bol-van/zapret) ⭐Total Star:11,551 ⭐Today's Star： \n该仓库提供了一种自主的DPI对抗工具，无需依赖外部服务器即可绕过HTTP(S)网站封锁或减速问题，并可规避TCP和UDP协议的签名分析（如针对VPN的封锁）。其特点包括多种流量混淆技术（如TCP分段、IP碎片化等）、支持多平台部署（Linux、Windows、Android等）以及独立运行的能力。\n<text_tag color='red'>网络工具</text_tag><text_tag color='orange'>流量管理</text_tag>"
+    },
+    {
+      "description": "[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) ⭐Total Star:61,891 ⭐Today's Star： \n这是一个基于 Tauri 构建的 Clash Meta 图形化界面工具，支持多平台（Windows、Linux 和 macOS）。它内置了 Clash.Meta 内核，提供简洁美观的用户界面，并支持自定义主题颜色、代理组/托盘图标以及 CSS Injection。此外，还具备配置文件管理与增强功能（如 Merge 和 Script）、系统代理和守卫、TUN 模式、可视化节点和规则编辑、WebDav 配置备份同步等功能，适合用于网络代理管理和优化。\n<text_tag color='red'>网络工具</text_tag><text_tag color='orange'>图形界面</text_tag>"
+    },
+    {
+      "description": "[self-llm](https://github.com/datawhalechina/self-llm) ⭐Total Star:18,915 ⭐Today's Star： \n这是一个面向国内初学者的开源大模型教程项目，基于Linux平台提供从环境配置、模型部署到高效微调的全流程指导。支持多种主流开源大模型（如LLaMA、ChatGLM等），涵盖命令行调用、在线Demo部署及LangChain框架集成等内容。项目旨在降低开源大模型的使用门槛，帮助学生和研究者更好地掌握大模型技术，促进其在学习与应用中的普及。\n<text_tag color='blue'>LLM</text_tag><text_tag color='orange'>教程</text_tag><text_tag color='green'>开源</text_tag>"
+    }
+  ]
+}
